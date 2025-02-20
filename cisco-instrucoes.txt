@@ -1,0 +1,17 @@
+Cisco
+
+end device, canto inferior esquerdo, adicionar pc, ctrl+r remover Show device Model Labels
+apos apertar "R", e retirar o outline, e fill color (mudar cor por PC)
+alt+r redimenciona os quadrados.
+Del ou o sibolo de apagar na bar remove os componentes
+network device (canto inferior esquerdo) selecionar switch -> 2960 (switch serve para conversar entre dois pcs)
+click no pc -> desktop ->
+click no switch -> CLI
+pra ligar o pc no switch -> raio (terceiro cabo)
+ip: 192.168.0.1
+mask: 255.255.255.0
+ip2: 192.168.0.2
+mask: 255...
+
+PAN :personal area network
+LAN: Local area network
