@@ -15,3 +15,8 @@ mask: 255...
 
 PAN :personal area network
 LAN: Local area network
+
+4 departmentos
+adm, rh, fin, marketing
+cada depart. 3 pcs (12total)
+Todas as maquinas se conversam
