@@ -20,3 +20,5 @@ LAN: Local area network
 adm, rh, fin, marketing
 cada depart. 3 pcs (12total)
 Todas as maquinas se conversam
+
+server dhcp -> cofigurar ip e numero de pessoas
